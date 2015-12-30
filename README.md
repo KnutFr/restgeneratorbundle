@@ -155,3 +155,11 @@ If you want the form to be able to convert related entities into the correct ent
         )
     )
 ```
+
+## Auto Generate Entity
+
+If you want to autogenerate rest entities for a bundle, you have to use this command: 
+
+```bash
+$ python makeRest.py ProjectYourBundle
+```
